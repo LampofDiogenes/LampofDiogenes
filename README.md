@@ -1,6 +1,8 @@
-- 👋 Hi, I’m Kaleb Bradford
-- 🌱 I’m interested in Software Engineering, Machine Learning, and UX Research
-- 👀 I’m currently Looking for jobs
+- Resident consumer of sweets, enjoyer of music
+- Looking for jobs, trying to survive the AI apocolypse
+- Hoping to pivot to UX design, but ideally not starve.
+
+- Come, Stay awhile 🔥
 
 <!---
 LampofDiogenes/LampofDiogenes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
